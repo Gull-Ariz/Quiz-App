@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>
+            Who is known as father of Java Programming?#James Gosling#M. P Java#Charel Babbage#Blais Pascal
+        </item>
+        <item>
+            In java control statements break, continue and assert belongs to?#Selection statements#Loop Statements#Transfer Statements#Pause Statements
+        </item>
+        <item>
+            Which provides runtime environment for java byte code to be executed?#JDK#JVM#JRE#JAVAC
+        </item>
+        <item>
+            which of the following is not Java keyword?#double#switch#then#instanceof
+        </item>
+        <item>
+            Which of these have highest precedence?#()#++#*#>>
+        </item>
+        <item>
+            Data type long literals are appended by#Uppercase L#Lowercase L#Long#BothA and B
+        </item>
+        <item>
+            Java language was initially called as#Sumatra#Java#Oak#Pine
+        </item>
+        <item>
+            Which one is a templet for creating different objects?#An Array#A class#Interface#Method
+        </item>
+        <item>
+            Which of these operators is used to allocate memory to array variable in Java?#alloc#malloc#new malloc#new
+        </item>
+        <item>
+            Which symbol is used to contain values of automatically initialized arrays?#Brackets#Braces#Parenthese#Comma
+        </item>
+    </string-array>
+</resources>
